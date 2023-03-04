@@ -56,6 +56,10 @@ Apabila node.js telah terinstall di computer teman-teman, lalu teman-teman dapat
 
 > v16.15.1
 
+#### How to get Test Case
+
+> test-case
+
 #### How access test script
 
 Test script ada pada directory berikut:

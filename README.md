@@ -58,7 +58,9 @@ Apabila node.js telah terinstall di computer teman-teman, lalu teman-teman dapat
 
 #### How to get Test Case
 
-> test-case
+```bash
+> ./test-case/
+```
 
 #### How access test script
 
